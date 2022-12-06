@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "908777608441",
+    "firebase_url": "https://camera-intent-402d8-default-rtdb.firebaseio.com",
+    "project_id": "camera-intent-402d8",
+    "storage_bucket": "camera-intent-402d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908777608441:android:7a23a901e9b9dc77f33e28",
+        "android_client_info": {
+          "package_name": "com.example.biketrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJwgKLtXp4VlcR_cLtOtUe2q0oX73Ye8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908777608441:android:a96bb299d744a9faf33e28",
+        "android_client_info": {
+          "package_name": "com.example.cameraintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJwgKLtXp4VlcR_cLtOtUe2q0oX73Ye8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908777608441:android:315bcf75c350b03ef33e28",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJwgKLtXp4VlcR_cLtOtUe2q0oX73Ye8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908777608441-i29rld7e0hpbdrks1kodk944i5gadks8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
